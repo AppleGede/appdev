@@ -1,0 +1,16 @@
+{
+    "student": [
+        {
+            "Name": "Apple Gede Polbos Duhaylungsod",
+            "Age": "22",
+            "Favorite_Quote": "Success is not final, failure is not fatal: it is the courage to continue that counts "
+        }
+    ],
+    "details": [
+        {
+            "Class_Section": "T90",
+            "Section_Code": "CC 131",
+            "BukSU_Email": "1901102265@student.buksu.edu.ph"
+        }
+    ]
+}
